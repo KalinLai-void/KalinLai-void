@@ -5,7 +5,7 @@
 
 ##### ⚔ I used to realize Divergence Meter in anime "Steins;Gate"(published yet), and I still want to make more works from anime, but I must learning more first.
 
-##### 💡 Skills: **C/C++**, **Unreal C++**, C#, Java, HTML/CSS/Javascript, Arduino ...
+##### 💡 Skills: *C/C++*, *Unreal C++*, C#, Java, HTML/CSS/Javascript, Arduino ...
 
 ##### 🌐 LINKS:
 - Blog: https://karlunlai-void.github.io/
