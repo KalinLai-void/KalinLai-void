@@ -3,10 +3,13 @@
 ##### I am just a otaku enjoys programming from Taiwan.
 ##### I have a GAME DEVELOPMENT dream, and I'm learning and developing now.
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=KalinLai-void&show_icons=true&theme=city_lights">
 💡 Tech Stack: 
 ---
-- 🎮 Game Engiine: *Unreal*, Unity
+
+<table>
+  <tr>
+    <td>
+      - 🎮 Game Engiine: *Unreal*, Unity
 - 💻 Programming: *Unreal C++*, *C/C++*, *Visual C#*, Java, Python, Arduino ...
 - 📝 Plan & Design: Game Design (System, Numerical Setup), Social Media Manager (FB & IG), Project Management, Version Control
 - 🎨 Arts:
@@ -18,6 +21,13 @@
     - Microsoft Office（Word、Excel、PPT...）
   - Video Editing:
     - Premiere (Essential)
+    </td>
+    <td>
+      <img align="right" src="https://github-readme-stats.vercel.app/api?username=KalinLai-void&show_icons=true&theme=city_lights">
+    </td>
+  </tr>
+</table>
+
 
 🌐 LINKS:
 ---
