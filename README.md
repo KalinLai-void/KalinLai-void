@@ -6,7 +6,7 @@
 💡 Tech Stack: 
 ---
 
-<table border=0>
+<table frame=void>
   <tr>
     <td width="40%">
       - 🎮 Game Engiine: *Unreal*, Unity
