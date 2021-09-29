@@ -10,7 +10,7 @@
 - 🎨 Arts:
   - 2D: PS/AI (Essential)
   - 3D: Blender (Essential), VRoid
-- 📌Others:
+- 📌 Others:
   - Word Processing:
     - Google docs、Google Sheets、Google Slides、Google Forms
     - Microsoft Office（Word、Excel、PPT...）
