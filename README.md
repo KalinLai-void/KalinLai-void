@@ -24,3 +24,5 @@
 - Instagram: https://www.instagram.com/kalin_lai.void/
 
 ##### ⚔ I used to realize Divergence Meter in anime "Steins;Gate"(published yet), and I still want to make more works from anime, but I must learning more first.
+
+[![Kalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=KalinLai-void)](https://github.com/anuraghazra/github-readme-stats)
