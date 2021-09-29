@@ -3,7 +3,7 @@
 ##### I am just a otaku enjoys programming from Taiwan.
 ##### I have a GAME DEVELOPMENT dream, and I'm learning and developing now.
 
-💡 Tech Stack: 
+💡 Skills Tree: 
 ---
 <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=KalinLai-void&show_icons=true&theme=city_lights"></p>
 
