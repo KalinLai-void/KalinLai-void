@@ -6,7 +6,7 @@
 💡 Tech Stack: 
 ---
 <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=KalinLai-void&show_icons=true&theme=city_lights"></p>
-<p>
+
 - 🎮 Game Engiine: *Unreal*, Unity
 - 💻 Programming: *Unreal C++*, *C/C++*, *Visual C#*, Java, Python, Arduino ...
 - 📝 Plan & Design: Game Design (System, Numerical Setup), Social Media Manager (FB & IG), Project Management, Version Control
@@ -19,7 +19,6 @@
     - Microsoft Office（Word、Excel、PPT...）
   - Video Editing:
     - Premiere (Essential)
-</p>
 
 🌐 LINKS:
 ---
