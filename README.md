@@ -7,30 +7,30 @@
 ---
 <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=KalinLai-void&show_icons=true&theme=city_lights"></p>
 
-- 🎮 Game Engiine: *Unreal*, Unity
-- 💻 Programming: 
-  - *Unreal C++*
-  - *C/C++*, *Visual C#*, Java, Python
-  - Arduino
-  - Git
-  - ...
-- 📝 Plan & Design: 
-  - Game Design (System, Numerical Setup)
-  - Social Media Manager (FB & IG)
-  - Project Management
-  - Version Control
-- 🎨 Arts:
-  - 2D: 
-    - PS/AI (Essential)
-  - 3D: 
-    - Blender (Essential)
-    - VRoid
-- 📌 Others:
-  - Word Processing:
-    - Google docs、Google Sheets、Google Slides、Google Forms
-    - Microsoft Office（Word、Excel、PPT...）
-  - Video Editing:
-    - Premiere (Essential)
+#### 🎮 Game Engiine: *Unreal*, Unity
+#### 💻 Programming: 
+- *Unreal C++*
+- *C/C++*, *Visual C#*, Java, Python
+- Arduino
+- Git
+- ...
+#### 📝 Plan & Design: 
+- Game Design (System, Numerical Setup)
+- Social Media Manager (FB & IG)
+- Project Management
+- Version Control
+#### 🎨 Arts:
+- 2D: 
+  - PS/AI (Essential)
+- 3D: 
+  - Blender (Essential)
+  - VRoid
+#### 📌 Others:
+- Word Processing:
+  - Google docs、Google Sheets、Google Slides、Google Forms
+  - Microsoft Office（Word、Excel、PPT...）
+- Video Editing:
+  - Premiere (Essential)
 
 🌐 LINKS:
 ---
