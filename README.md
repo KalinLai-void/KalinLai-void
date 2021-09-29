@@ -9,8 +9,6 @@
 ---
 <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=KalinLai-void&show_icons=true&theme=city_lights"></p>
 
-<img src="https://cdn.worldvectorlogo.com/logos/unreal-1.svg" alt="Unreal Logo" width="50" height="50"/>
-
 #### 🎮 Game Engiine :
 - **Unreal**
 - Unity
