@@ -26,4 +26,4 @@
 ##### ⚔ I used to realize Divergence Meter in anime "Steins;Gate"(published yet), and I still want to make more works from anime, but I must learning more first.
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=KalinLai-void&show_icons=true&theme=city_lights">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalinLai-void&theme=city_lights">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalinLai-void&theme=city_lights&layout=compact">
