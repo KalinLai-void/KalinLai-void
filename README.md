@@ -16,23 +16,6 @@
 - Arduino
 - Git
 - ...
-#### 📝 Plan & Design: 
-- Game Design (System, Numerical Setup)
-- Social Media Manager (FB & IG)
-- Project Management
-- Version Control
-#### 🎨 Arts:
-- 2D: 
-  - PS/AI (Essential)
-- 3D: 
-  - Blender (Essential)
-  - VRoid
-#### 📌 Others:
-- Word Processing:
-  - Google docs、Google Sheets、Google Slides、Google Forms
-  - Microsoft Office（Word、Excel、PPT...）
-- Video Editing:
-  - Premiere (Essential)
 
 🌐 LINKS:
 ---
