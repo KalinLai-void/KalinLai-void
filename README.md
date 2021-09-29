@@ -8,7 +8,7 @@
 
 <table>
   <tr>
-    <td>
+    <td width="50%">
       - 🎮 Game Engiine: *Unreal*, Unity
 - 💻 Programming: *Unreal C++*, *C/C++*, *Visual C#*, Java, Python, Arduino ...
 - 📝 Plan & Design: Game Design (System, Numerical Setup), Social Media Manager (FB & IG), Project Management, Version Control
@@ -22,7 +22,7 @@
   - Video Editing:
     - Premiere (Essential)
     </td>
-    <td>
+    <td width="50%">
       <img align="right" src="https://github-readme-stats.vercel.app/api?username=KalinLai-void&show_icons=true&theme=city_lights">
     </td>
   </tr>
