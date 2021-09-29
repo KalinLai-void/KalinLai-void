@@ -7,7 +7,9 @@
 ---
 <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=KalinLai-void&show_icons=true&theme=city_lights"></p>
 
-#### 🎮 Game Engiine: *Unreal*, Unity
+#### 🎮 Game Engiine:
+- *Unreal*
+- Unity
 #### 💻 Programming: 
 - *Unreal C++*
 - *C/C++*, *Visual C#*, Java, Python
