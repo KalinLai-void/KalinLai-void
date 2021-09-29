@@ -3,7 +3,8 @@
 ##### I am just a otaku enjoys programming from Taiwan.
 ##### I have a GAME DEVELOPMENT dream, and I'm learning and developing now.
 
-##### 💡 Skills Tree: 
+💡 Tech Stack: 
+---
 - 🎮 Game Engiine: *Unreal*, Unity
 - 💻 Programming: *Unreal C++*, *C/C++*, *Visual C#*, Java, Python, Arduino ...
 - 📝 Plan & Design: Game Design (System, Numerical Setup), Social Media Manager (FB & IG), Project Management, Version Control
@@ -17,7 +18,8 @@
   - Video Editing:
     - Premiere (Essential)
 
-##### 🌐 LINKS:
+🌐 LINKS:
+---
 - Blog: https://kalinlai-void.github.io/
 - Facebook: https://www.facebook.com/Lai.Karlun/
 - Twitter: https://twitter.com/KalinLai_void
