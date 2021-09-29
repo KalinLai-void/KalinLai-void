@@ -8,9 +8,16 @@
 ##### 💡 Skills Tree: 
 ##### 🎮 Game Engiine: *Unreal*, Unity
 ##### 💻 Programming: *Unreal C++*, *C/C++*, *Visual C#*, Java, Python, Arduino ...
-##### 📝Plan & Design: Game Design, 
-##### 🎨
-##### 📌
+##### 📝 Plan & Design: Game Design (System, Numerical Setup), Social Media Manager (FB & IG), Project Management, Version Control
+##### 🎨 Arts:
+- 2D: PS/AI (Essential)
+- 3D: Blender (Essential), VRoid
+##### 📌Others:
+- Word Processing:
+  - Google docs、Google Sheets、Google Slides、Google Forms
+  - Microsoft Office（Word、Excel、PPT...）
+- Video Editing:
+  - Premiere (Essential)
 
 ##### 🌐 LINKS:
 - Blog: https://kalinlai-void.github.io/
