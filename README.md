@@ -19,6 +19,8 @@
 
 🌐 LINKS:
 ---
+[![FB](https://img.shields.io/badge/facebook--blue?style=social&logo=Facebook)](https://www.facebook.com/Lai.Karlun/)
+
 - Blog: https://kalinlai-void.github.io/
 - Facebook: https://www.facebook.com/Lai.Karlun/
 - Twitter: https://twitter.com/KalinLai_void
