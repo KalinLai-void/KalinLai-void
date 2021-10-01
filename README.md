@@ -23,6 +23,6 @@
 ---
 <a href="https://kalinlai-void.github.io/" target="_blank"><img src="https://img.shields.io/badge/Blog--RED?style=social&logo=Hexo"></a>
 <a href="https://www.facebook.com/Lai.Karlun/" target="_blank"><img src="https://img.shields.io/badge/facebook--blue?style=social&logo=Facebook"></a>
-<a href="https://https://twitter.com/KalinLai_void" target="_blank"><img src="https://img.shields.io/badge/Twitter--blue?style=social&logo=Twitter"></a>
+<a href="https://twitter.com/KalinLai_void" target="_blank"><img src="https://img.shields.io/badge/Twitter--blue?style=social&logo=Twitter"></a>
 <a href="https://www.instagram.com/kalin_lai.void/" target="_blank"><img src="https://img.shields.io/badge/Instagram--blue?style=social&logo=Instagram"></a>
 
