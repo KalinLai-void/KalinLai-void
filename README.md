@@ -27,4 +27,4 @@
 <a href="https://twitter.com/KalinLai_void" target="_blank"><img src="https://img.shields.io/badge/Twitter--blue?style=social&logo=Twitter"></a>
 <a href="https://www.instagram.com/kalin_lai.void/" target="_blank"><img src="https://img.shields.io/badge/Instagram--blue?style=social&logo=Instagram"></a>
 
-The detail can see [this](https://kalinlai-void.github.io/About/)
+The details can see [this](https://kalinlai-void.github.io/About/).
