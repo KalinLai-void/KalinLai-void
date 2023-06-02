@@ -14,6 +14,7 @@
 - Unity
 #### 💻 Programming : 
 - **Unreal C++**
+- **Unity C#**
 - **Computer Vision & Image Processing**
 - **C/C++**, *Visual C#*, Java, Python
 - Arduino
