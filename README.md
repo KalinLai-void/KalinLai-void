@@ -1,6 +1,6 @@
 ### Hello world 👋
 
-I am just an otaku enjoys programming from Taiwan.
+I am just an otaku enjoys programming from Taiwan.</br>
 I have a GAME DEVELOPMENT dream, and I'm learning and developing now.
 
 ⚔ I used to realize Divergence Meter in anime "Steins;Gate"(published yet), and I still want to make more works from anime, but I must learning more first.
