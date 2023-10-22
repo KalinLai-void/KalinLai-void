@@ -7,7 +7,7 @@
 
 💡 Skills Tree
 ---
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=KalinLai-void&show_icons=true&theme=city_lights"></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=KalinLai-void&show_icons=true&theme=city_lights"></img></p>
 
 #### 🎮 Game Engiine :
 - **Unreal**
