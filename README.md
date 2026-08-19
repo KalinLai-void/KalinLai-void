@@ -7,10 +7,10 @@ I have a GAME DEVELOPMENT dream, and I'm learning and developing now.
 
 💡 Skills Tree
 ---
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=KalinLai-void&show_icons=true&theme=city_lights"></img></p>
+<p><a href="https://github.com/stats-organization/github-stats-extended" target="_blank"><img align="right" src="https://github-stats-extended.vercel.app/api?username=KalinLai-void&show_icons=true&theme=city_lights"></img></a></p>
 
 #### 🎮 Game Engiine :
-- **Unreal**
+- Unreal
 - Unity
 #### 💻 Programming : 
 - **Unreal C++**
